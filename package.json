@@ -1,0 +1,27 @@
+{
+  "name": "@craftkit/craft-widget-quicktools",
+  "version": "1.0.0",
+  "description": "Widgets for your first Craft-UIKit application",
+  "main": "index.js",
+  "module": "index.js",
+  "unpkg": "dist/craft-widget-quicktools.min.js",
+  "dependencies": {
+    "craft-uikit": "https://github.com/craftkit/craft-uikit"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "wabpack --config config/webpack.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craftkit/craft-widget-quicktools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/craftkit/craft-widget-quicktools/issues"
+  },
+  "homepage": "https://github.com/craftkit/craft-widget-quicktools"
+}
