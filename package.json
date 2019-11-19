@@ -17,7 +17,15 @@
     "type": "git",
     "url": "git+https://github.com/craftkit/craft-widget-quicktools.git"
   },
-  "keywords": [],
+  "keywords": [
+  	"WebComponents",
+  	"Shadow DOM",
+  	"OOP",
+  	"SPA",
+  	"PWA",
+  	"frontend",
+	"UI widget"
+  ],
   "author": "",
   "license": "MIT",
   "bugs": {
