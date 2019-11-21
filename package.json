@@ -1,6 +1,6 @@
 {
   "name": "@craftkit/craft-widget-quicktools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Widgets for your first Craft-UIKit application",
   "main": "index.js",
   "module": "index.js",
