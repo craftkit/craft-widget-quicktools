@@ -6,7 +6,7 @@
   "module": "index.js",
   "unpkg": "dist/craft-widget-quicktools.min.js",
   "dependencies": {
-    "@craftkit/craft-uikit": "^2.x",
+    "@craftkit/craft-uikit": "^2.x"
   },
   "devDependencies": {},
   "scripts": {
