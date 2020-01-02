@@ -1,5 +1,5 @@
 
-import * as Craft from 'craft-uikit';
+import * as Craft from '@craftkit/craft-uikit';
 
 import { TipsPanel } from './TipsPanel.js';
 import { ActionPanel } from './ActionPanel.js';

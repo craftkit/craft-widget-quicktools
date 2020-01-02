@@ -1,5 +1,5 @@
 
-import * as Craft from 'craft-uikit';
+import * as Craft from '@craftkit/craft-uikit';
 
 /** 
  * ActionSheet 
