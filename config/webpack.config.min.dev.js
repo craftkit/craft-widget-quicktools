@@ -12,6 +12,6 @@ module.exports = {
 		globalObject: 'window'
 	},
 	externals: {
-		'craft-uikit' : 'Craft',
+		'@craftkit/craft-uikit' : 'Craft',
 	}
 };

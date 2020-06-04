@@ -11,6 +11,6 @@ module.exports = {
 		libraryTarget: 'umd',
 	},
 	externals: {
-		'craft-uikit' : 'Craft'
+		'@craftkit/craft-uikit' : 'Craft'
 	}
 };
