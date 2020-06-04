@@ -1,6 +1,6 @@
 {
   "name": "@craftkit/craft-widget-quicktools",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Widgets for your first Craft-UIKit application",
   "main": "index.js",
   "module": "index.js",
@@ -18,13 +18,13 @@
     "url": "git+https://github.com/craftkit/craft-widget-quicktools.git"
   },
   "keywords": [
-  	"WebComponents",
-  	"Shadow DOM",
-  	"OOP",
-  	"SPA",
-  	"PWA",
-  	"frontend",
-	"UI widget"
+    "WebComponents",
+    "Shadow DOM",
+    "OOP",
+    "SPA",
+    "PWA",
+    "frontend",
+    "UI widget"
   ],
   "author": "",
   "license": "MIT",

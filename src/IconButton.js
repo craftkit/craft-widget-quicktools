@@ -53,7 +53,6 @@ export class IconButton extends Craft.UI.View {
 	style(componentId){
 		return `
 			.root {
-				float: left;
 				width: 44px;
 				height: 44px;
 				margin-left: 0px;
